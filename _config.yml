@@ -1,3 +1,5 @@
 title: Sakura Tree
 description:  QQ群内的项目指南和群规
 remote-theme: mumuxme/materialize-jekyll
+
+theme: jekyll-theme-cayman
